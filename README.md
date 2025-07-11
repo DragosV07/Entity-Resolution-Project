@@ -40,7 +40,7 @@ The dataset includes company records enriched with various metadata (e.g., name,
 
 ---
 
-## 📊 Outputs & Visualizations
+## Outputs & Visualizations
 
 - **Distribution of Match Grades**  
   Histogram and KDE plots to evaluate how confident the model is overall.
